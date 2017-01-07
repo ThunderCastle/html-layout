@@ -1,0 +1,48 @@
+*{
+  box-sizing: border-box;
+}
+body{
+  margin: 0;
+}
+header{
+  background-color: #D8D8D8;
+  height: 12vh;
+  width: 100%;
+  padding-top: 10px;
+}
+.logo{
+  background-color: #4A90E2;
+  width: 70px;
+  height: 70px;
+  margin-left: 20px;
+
+
+}
+.a{
+  height: 24vh;
+  background-color: #FFFFFF;
+  width: 100%;
+}
+p{
+  padding: 60px;
+}
+.b{
+  height: 16vh;
+  background-color: #4A90E2;
+  width: 100%;
+}
+.c{
+  height: 16vh;
+  background-color: #50E3C2;
+  width: 100%;
+}
+.d{
+  height: 16vh;
+  background-color: #B8E986;
+  width: 100%;
+}
+.e{
+  height: 16vh;
+  background-color: #F8E71C;
+  width: 100%;
+}
